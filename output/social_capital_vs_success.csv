@@ -1,0 +1,9 @@
+outcome,model,term,coef_per_sd,ci_low,ci_high,n_colleges,r2
+Success rate: % of bottom-quintile students reaching top quintile,"Economic connectedness, no controls",ec,10.5894,9.4985,11.6803,1727,0.5581
+Success rate: % of bottom-quintile students reaching top quintile,Economic connectedness + selectivity tier,ec,5.6341,4.7852,6.4829,1727,0.7301
+Success rate: % of bottom-quintile students reaching top quintile,Exposure + friending bias + selectivity tier,exposure,5.6386,4.7801,6.4971,1727,0.7357
+Success rate: % of bottom-quintile students reaching top quintile,Exposure + friending bias + selectivity tier,bias,0.3310,-0.0559,0.7178,1727,0.7357
+Mean adult income rank of bottom-quintile students,"Economic connectedness, no controls",ec,6.4428,5.7991,7.0866,1727,0.5495
+Mean adult income rank of bottom-quintile students,Economic connectedness + selectivity tier,ec,2.9843,2.2514,3.7172,1727,0.7292
+Mean adult income rank of bottom-quintile students,Exposure + friending bias + selectivity tier,exposure,2.9807,2.2607,3.7008,1727,0.7330
+Mean adult income rank of bottom-quintile students,Exposure + friending bias + selectivity tier,bias,0.1425,-0.1229,0.4079,1727,0.7330

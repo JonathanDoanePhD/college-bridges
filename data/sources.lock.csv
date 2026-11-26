@@ -1,0 +1,5 @@
+file,url,downloaded_utc,bytes,sha256
+gazetteer/2022_Gaz_counties_national.zip,https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2022_Gazetteer/2022_Gaz_counties_national.zip,2026-11-13,141647,7315c7d599e96b220b34402210940032fa4e0278af2b90d8248df1ebbb6405ce
+mrc_table2.csv,https://opportunityinsights.org/wp-content/uploads/2018/04/mrc_table2.csv,2026-11-13,1842351,12fd059a895167a50982f882cfd268ad07b5c12d15752d94069bcc38efb2a14d
+scorecard/Most-Recent-Cohorts-Institution.zip,https://ed-public-download.scorecard.network/downloads/Most-Recent-Cohorts-Institution_11022026.zip,2026-11-13,24209950,4c31be45bb6defc17a972a8084a88d3d7ba4a4044884ea9529c03c7570a7305d
+social_capital_college.csv,https://data.humdata.org/dataset/85ee8e10-0c66-4635-b997-79b6fad44c71/resource/7bd697cf-c572-47a6-b15b-8450cc5c7ef8/download/social_capital_college.csv,2026-11-13,516511,fa5c3a4854f26ef39ca461155ff33e5727ada338dcb6297c27d99be6eafc475f
